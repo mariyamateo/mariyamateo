@@ -3,7 +3,7 @@
 
 - 🍀 Currently focused on front-end development
 - 🚀 Got a bit of experience with NFT and Web3 development
-- 👨‍💻 Check my portfolio at [maclarissemateo](https://maclarissemateo.netlify.app/)
+- 👨‍💻 Check my portfolio at [maclarissemateo](https://maclarissemateo.vercel.app/)
 - 💕 Loves cat, coffee, and commitment
 
 <h3 align="left">Connect with me:</h3>
