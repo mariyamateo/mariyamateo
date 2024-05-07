@@ -5,6 +5,7 @@
 - 🚀 Got a bit of experience with NFT and Web3 development
 - 👨‍💻 Check my portfolio at [maclarissemateo](https://maclarissemateo.vercel.app/)
 - 💕 Loves cat, coffee, and commitment
+- 📫 How to reach me: [ma.clarissepmateo@gmail.com](mailto:ma.clarissepmateo@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
