@@ -1,19 +1,18 @@
 <h1>Hi there! 👋</h1>
 <h3>A passionate software developer who loves to explore new technologies.</h3>
 
-- 🍀 Currently focused on front-end development
-- 🚀 Got a bit of experience with NFT and Web3 development
-- 👨‍💻 Check my portfolio at [maclarissemateo](https://maclarissemateo.vercel.app/)
+- 🍀 3+ years experienced as a Front End Developer using javascript frameworks such as React
+- 🚀 1+ years experienced in Web3 development
+- 👨‍💻 Check my recent projects here at [my portfolio](https://maclarissemateo.vercel.app/)
 - 💕 Loves cat, coffee, and commitment
 - 📫 How to reach me: [ma.clarissepmateo@gmail.com](mailto:ma.clarissepmateo@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/maclarisse-mateo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-mateo" height="30" width="40" /></a>
-<a href="mailto:ma.clarissepmateo@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mateo-gmail" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tools that I'm using:</h3>
+<h4 align="left">Tools that I'm using:</h4>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
